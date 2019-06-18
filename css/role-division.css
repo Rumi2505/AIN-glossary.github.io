@@ -1,0 +1,17 @@
+
+hr {
+	width: 80%;
+	border-width: 6px;
+}
+
+p {
+	width: 75%;
+}
+
+table, th, td {
+	border: 1px solid;
+}
+
+b {
+	font-size: 18px;
+}
