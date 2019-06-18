@@ -1,0 +1,18 @@
+
+hr {
+	width: 80%;
+	border-width: 6px;
+}
+
+table, th, td {
+	border: 1px solid;
+}
+
+.topics {
+	text-align: center;
+}
+
+
+p {
+	width: 80%;
+}
